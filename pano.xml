@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17983" appversion="6.1.9" start="node5">
+  <panorama id="node5" hideabout="1">
+    <input width="1344" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="1.5" overlap="1" levelbiashidpi="1.000" leveltilesize="510" height="1344" levelingroll="0">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="87" projection="4" pan="-6.24839" tilt="0.160371"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" tilt="90"/>
+    </view>
+    <userdata datetime="01/01/2016 12:00 am" heading="0" title="" source="" info="" description="" comment="" customnodeid="" tags="YNB Tours" longitude="" author="" copyright="" nodeid="node5" latitude=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" enabled="1" background="1" border="1" height="20" textalpha="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node8}" id="Point01" title="" target="" description="" skinid="ht_node" pan="-304.17" tilt="-8.12"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" tiltsize="10.000" id="_background" level="1.000" mode="0" pansize="10.000" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" loop="1" pan="-1.000" tilt="-1.000">
+        <source url="media/bensound-onceagain.mp3"/>
+      </sound>
+    </media>
+    <transition zoomout="0" type="cut" blendtime="0" softedge="0" enabled="1" zoomspeed="2" zoomin="0" zoomoutpause="1" blendcolor="0x000000" zoomfov="20"/>
+    <autorotate speed="0.150" startloaded="1" nodedelay="32.00" useanimation="0" enabled="1" nodefilter="YNB Tours" returntohorizon="0.000" noderandom="1" delay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" lockedmouse="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" hideabout="1" lockedkeyboardzoom="0" rubberband="0" invertcontrol="1" contextfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input width="1344" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0.8" overlap="1" levelbiashidpi="1.000" leveltilesize="510" height="1344" levelingroll="0.3">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" tilt="90"/>
+    </view>
+    <userdata datetime="10/01/2021 5:01 pm" heading="0" title="" source="" info="" description="" comment="" customnodeid="" tags="Pano2VR6" longitude="" author="" copyright="" nodeid="node8" latitude=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" enabled="1" background="1" border="1" height="20" textalpha="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node6}" id="Point01" title="" target="" description="" skinid="ht_node" pan="-3.67" tilt="-13.36"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" type="cut" blendtime="0" softedge="0" enabled="1" zoomspeed="2" zoomin="0" zoomoutpause="1" blendcolor="0x000000" zoomfov="20"/>
+    <autorotate speed="0.150" startloaded="1" nodedelay="32.00" useanimation="0" enabled="1" nodefilter="YNB Tours" returntohorizon="0.000" noderandom="1" delay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" lockedmouse="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" hideabout="1" lockedkeyboardzoom="0" rubberband="0" invertcontrol="1" contextfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input width="1344" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="1.8" overlap="1" levelbiashidpi="1.000" leveltilesize="510" height="1344" levelingroll="1.1">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="76" projection="4" pan="48" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" tilt="90"/>
+    </view>
+    <userdata datetime="10/01/2021 4:57 pm" heading="0" title="" source="" info="" description="" comment="" customnodeid="" tags="YNB Tours" longitude="" author="" copyright="" nodeid="node6" latitude=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" enabled="1" background="1" border="1" height="20" textalpha="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node3}" id="Point01" title="" target="" description="" skinid="ht_node" pan="-290.12" tilt="-27.22"/>
+      <hotspot url="{node7}" id="Point02" title="" target="" description="" skinid="ht_node" pan="-248.24" tilt="-12.27"/>
+      <hotspot url="{node5}" id="Point03" title="" target="" description="" skinid="ht_node" pan="-357.22" tilt="-2.98"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" type="cut" blendtime="0" softedge="0" enabled="1" zoomspeed="2" zoomin="0" zoomoutpause="1" blendcolor="0x000000" zoomfov="20"/>
+    <autorotate speed="0.150" startloaded="1" nodedelay="32.00" useanimation="0" enabled="1" nodefilter="YNB Tours" returntohorizon="0.000" noderandom="1" delay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" lockedmouse="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" hideabout="1" lockedkeyboardzoom="0" rubberband="0" invertcontrol="1" contextfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input width="1344" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="2.2" overlap="1" levelbiashidpi="1.000" leveltilesize="510" height="1344" levelingroll="-0.8">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" projection="4" pan="172.594" tilt="-14.8264"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" tilt="90"/>
+    </view>
+    <userdata datetime="10/01/2021 4:56 pm" heading="0" title="" source="" info="" description="" comment="" customnodeid="" tags="YNB Tours" longitude="" author="" copyright="" nodeid="node3" latitude=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" enabled="1" background="1" border="1" height="20" textalpha="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node2}" id="Point05" title="" target="" description="" skinid="ht_node" pan="-171.8" tilt="-17.56"/>
+      <hotspot url="{node6}" id="Point01" title="" target="" description="" skinid="ht_node" pan="-353.81" tilt="-17.33"/>
+    </hotspots>
+    <media>
+      <lensflare type="8" blinding="50.000" id="Lensflare01" alpha="80.000" color="0xffffff" pan="-267.300" tilt="23.140"/>
+    </media>
+    <transition zoomout="0" type="cut" blendtime="0" softedge="0" enabled="1" zoomspeed="2" zoomin="0" zoomoutpause="1" blendcolor="0x000000" zoomfov="20"/>
+    <autorotate speed="0.150" startloaded="1" nodedelay="32.00" useanimation="0" enabled="1" nodefilter="YNB Tours" returntohorizon="0.000" noderandom="1" delay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" lockedmouse="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" hideabout="1" lockedkeyboardzoom="0" rubberband="0" invertcontrol="1" contextfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input width="1344" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="2.2" overlap="1" levelbiashidpi="1.000" leveltilesize="510" height="1344" levelingroll="0.7">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" projection="4" pan="170.739" tilt="-4.62509"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" tilt="90"/>
+    </view>
+    <userdata datetime="10/01/2021 4:58 pm" heading="0" title="" source="" info="" description="" comment="" customnodeid="" tags="YNB Tours" longitude="" author="" copyright="" nodeid="node7" latitude=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" enabled="1" background="1" border="1" height="20" textalpha="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node6}" id="Point01" title="" target="" description="" skinid="ht_node" pan="-311.4" tilt="-6.9"/>
+    </hotspots>
+    <media>
+      <video field="90.000" tilt="-0.750" pansize="10.000" fov="22.780" pan="-192.370" clickmode="2" handcursor="1" nodechangekeep="0" startmutedmobile="0" mode="3" level="1.000" rotz="0.000" rotx="0.000" ambientlevel="0.000" id="Mohanned_Vedio" height="224" width="400" loop="1" roty="0.000" tiltsize="10.000" stretch="1.000">
+        <source url="media/Mohan_٠٠١_٠٠١.mp4"/>
+      </video>
+    </media>
+    <transition zoomout="0" type="cut" blendtime="0" softedge="0" enabled="1" zoomspeed="2" zoomin="0" zoomoutpause="1" blendcolor="0x000000" zoomfov="20"/>
+    <autorotate speed="0.150" startloaded="1" nodedelay="32.00" useanimation="0" enabled="1" nodefilter="YNB Tours" returntohorizon="0.000" noderandom="1" delay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" lockedmouse="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" hideabout="1" lockedkeyboardzoom="0" rubberband="0" invertcontrol="1" contextfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node1" hideabout="1">
+    <input width="1344" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="2.1" overlap="1" levelbiashidpi="1.000" leveltilesize="510" height="1344" levelingroll="0.4">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="74" projection="4" pan="-11.3044" tilt="-3.08759"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" tilt="90"/>
+    </view>
+    <userdata datetime="10/01/2021 4:54 pm" heading="0" title="" source="" info="" description="" comment="" customnodeid="" tags="YNB Tours" longitude="" author="" copyright="" nodeid="node1" latitude=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" enabled="1" background="1" border="1" height="20" textalpha="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node4}" id="Point01" title="" target="" description="" skinid="ht_node" pan="-168.24" tilt="-11.23"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" type="cut" blendtime="0" softedge="0" enabled="1" zoomspeed="2" zoomin="0" zoomoutpause="1" blendcolor="0x000000" zoomfov="20"/>
+    <autorotate speed="0.150" startloaded="1" nodedelay="32.00" useanimation="0" enabled="1" nodefilter="YNB Tours" returntohorizon="0.000" noderandom="1" delay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" lockedmouse="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" hideabout="1" lockedkeyboardzoom="0" rubberband="0" invertcontrol="1" contextfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input width="1344" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0.8" overlap="1" levelbiashidpi="1.000" leveltilesize="510" height="1344" levelingroll="0.6">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="109" projection="4" pan="-82.7602" tilt="-1.46813"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" tilt="90"/>
+    </view>
+    <userdata datetime="10/01/2021 4:54 pm" heading="0" title="" source="" info="" description="" comment="" customnodeid="" tags="YNB Tours" longitude="" author="" copyright="" nodeid="node2" latitude=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" enabled="1" background="1" border="1" height="20" textalpha="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node1}" id="Point01" title="" target="" description="" skinid="ht_node" pan="-355.98" tilt="-24.24"/>
+      <hotspot url="{node4}" id="Point02" title="" target="" description="" skinid="ht_node" pan="-154.82" tilt="-22.11"/>
+      <hotspot url="{node6}" id="Point03" title="" target="" description="" skinid="ht_node" pan="-263.43" tilt="0.16"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" type="cut" blendtime="0" softedge="0" enabled="1" zoomspeed="2" zoomin="0" zoomoutpause="1" blendcolor="0x000000" zoomfov="20"/>
+    <autorotate speed="0.150" startloaded="1" nodedelay="32.00" useanimation="0" enabled="1" nodefilter="YNB Tours" returntohorizon="0.000" noderandom="1" delay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" lockedmouse="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" hideabout="1" lockedkeyboardzoom="0" rubberband="0" invertcontrol="1" contextfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input width="1344" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="1.5" overlap="1" levelbiashidpi="1.000" leveltilesize="510" height="1344" levelingroll="0.3">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="69" projection="4" pan="-24" tilt="-6"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" tilt="90"/>
+    </view>
+    <userdata datetime="01/01/2016 12:04 am" heading="0" title="" source="" info="" description="" comment="" customnodeid="" tags="YNB Tours" longitude="" author="" copyright="" nodeid="node4" latitude=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" enabled="1" background="1" border="1" height="20" textalpha="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot url="" id="Start" title="" target="" description="ضربة البداية &#xa;ابدأ صاح ....امشي صاح&#xa;ضربة البداية وحدة من الورش التي يتم تقديمها من قبل مركز يلا نبدأ بزنس , مستهدفة الناس اللسة مابدت بيزنس وعايزة تبدأ بيزنس لاكن ماعارفين كيف ومتبن تبدأ .&#xa; " skinid="ht_info" pan="-58.89" tilt="-2.58"/>
+      <hotspot url="{node2}" id="Point01" title="" target="" description="" skinid="ht_node" pan="-129.1" tilt="-12.5"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" type="cut" blendtime="0" softedge="0" enabled="1" zoomspeed="2" zoomin="0" zoomoutpause="1" blendcolor="0x000000" zoomfov="20"/>
+    <autorotate speed="0.150" startloaded="1" nodedelay="32.00" useanimation="0" enabled="1" nodefilter="YNB Tours" returntohorizon="0.000" noderandom="1" delay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" lockedmouse="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" hideabout="1" lockedkeyboardzoom="0" rubberband="0" invertcontrol="1" contextfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata datetime="" heading="0" title="" source="" info="" description="" comment="" customnodeid="" tags="" longitude="" author="" copyright="" nodeid="master" latitude=""/>
+  </masternode>
+</tour>
